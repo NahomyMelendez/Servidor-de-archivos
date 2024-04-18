@@ -1,0 +1,26 @@
+sigla	grupo	modalidad_estudio	carne	nombre_completo	direccion_electronica_inst	tipo_matricula	dsc_modalidad
+IF3100	1	1	B82684	ELIZONDO BOLAÑOS SERGIO GUSTAVO  	SERGIO.ELIZONDOBOLANOS@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	B83748	HERNANDEZ DIAZ ASHLEY DAIANA  	ASHLEY.HERNANDEZDIAZ@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	B85119	MONTERO JIMENEZ MARCOS DAVID  	MARCOS.MONTERO@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C28122	VARGAS CORRALES MANUEL ANDRES  	MANUEL.VARGASCORRALES@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C30174	AGUIRRE TORRES EMMA SOFIA  	EMMA.AGUIRRE@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C32218	CHINCHILLA SANCHEZ MIGUEL ANGEL  	MIGUEL.CHINCHILLASANCHEZ@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C32440	CRUZ RODRIGUEZ BRAYAN ANDREY  	BRAYAN.CRUZ@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C32506	DELGADO CORRALES JOSUE  	JOSUE.DELGADOCORRALES@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C32934	FERNANDEZ VILCHEZ MARIA MARCELLE  	MARIA.FERNANDEZVILCHEZ@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C33772	HERNANDEZ TORRENTES JOSEPTH STEVEN  	JOSEPTH.HERNANDEZ@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C33952	JIMENEZ ARIAS DENIS  	DENIS.JIMENEZARIAS@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C34090	JIMENEZ VENEGAS DENNIS JUNIOR  	DENNIS.JIMENEZVENEGAS@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C34775	MELENDEZ RODRIGUEZ DYAN NAHOMY  	DYAN.MELENDEZ@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C35013	MONGE DONATO DAMIAN  	DAMIAN.MONGE@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C35034	MONGE NAVARRO ALLISON GEORGINA  	ALLISON.MONGENAVARRO@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C35423	MOYA GARCIA JANDANY  	JANDANY.MOYA@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C35885	PARRA TENORIO WENDY GABRIELA  	WENDY.PARRA@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C36653	RODRIGUEZ BRISTAN RICK DANIEL  	RICK.RODRIGUEZ@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C37115	SALAS CHAVES NICOLE ALEXANDRA  	NICOLE.SALASCHAVES@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C37172	SALAZAR CAMPOS DIEGO ALONSO  	DIEGO.SALAZARCAMPOS@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C37251	SANARRUSIA GOMEZ MARIA ANGEL  	MARIA.SANARRUSIA@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C37394	SANDI RODRIGUEZ CARLOS JOSUE  	CARLOSJOSUE.SANDI@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C38346	VEGA OROZCO ISAAC ALEXANDER  	ISAAC.VEGAOROZCO@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C38486	VILLALOBOS VILLALTA KENDALL FABRICIO  	KENDALL.VILLALOBOS@ucr.ac.cr	Asignado en período ordinario	Regular
+IF3100	1	1	C38543	VINDAS HERNANDEZ FRANCINI KEISY  	FRANCINI.VINDASHERNANDEZ@ucr.ac.cr	Asignado en período ordinario	Regular
